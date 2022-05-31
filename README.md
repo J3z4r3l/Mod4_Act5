@@ -11,10 +11,12 @@ Este programa fue desarrollado con temática del perrito cheems que se viralizo 
 Como punto final, creamos el icono que solicitaba la actividad, este nos permite tener un rapido acceso al programas y automatiza los procesos de ejecucion. 
 Para lograr esto necesitamos 2 archivos;
 
-1.- cheems_game.sh: 
-
-
-
+1.- chems_game.sh: Accede al archivo lo ejecuta.
+```Bash
+cd /home/pi/Desktop/actividad5
+python3 actividad5.py &
+```
+2.- chemsito.desktop: En este archivo configuramos el nombre, comentario, e imagen del icono. tambien le indicamos la ruta del archivo sh que debe ejecutarse al presionar el icono
 
 ```desktop
 [Desktop Entry]
@@ -26,10 +28,22 @@ Type=Application
 Encoding=UTF-8
 Terminal=false
 ```
+![icono2](https://user-images.githubusercontent.com/100887194/171081796-3d6c52b6-1c7a-4fb2-bf23-fa1bff9356b7.png)
+                                                                                                          _Icono_
 
 
-![image](https://user-images.githubusercontent.com/88802298/171071443-666dea7b-fa2e-4a62-981b-ee7920798365.png)
 
 # Resultados
 
 ![image](https://user-images.githubusercontent.com/88802298/171070476-e4dfbb24-dace-48a4-b1da-968cb081a0b3.png)
+                                                                                                                                                _Ejecución del código_
+                                                                                           
+A pesar de que hubo dificultades al programar que el personaje tuviera una posicion aleatoria dentro de la pantalla principal, logramos solucionarlo.
+De esta manera logramos que el codigo funcionara exitosamente como se muestra en la imagen anterior, del mismo modo se cumpliron con todas la especificaiones que la tarea demandaba.
+
+# Conclusiones
+
+Angel Ramirez
+Jezarel Sanchez
+Josafat 
+                                                                                           
