@@ -43,7 +43,9 @@ De esta manera logramos que el codigo funcionara exitosamente como se muestra en
 
 # Conclusiones
 
-Angel Ramirez:
+Angel Ramirez:  Considero que la actividad fue bastante retadora y a la vez muy enriquecedora, pues nos permitio poner en practica varios de los conocimientos adquiridos en en el modulo, y a pesar de las dificultades que se nos pudieron presentar, esta actividad me permitio comprender basicamente como funcionan algunas animaciones y los iconos, que son elementos muy reelevantes y bastante utiles ya que nos ahorran tiempo de buscar archivos y ejecutarlos manualmente.
+                                                                                   
 Jezarel Sanchez: 
+
 Josafat: 
                                                                                            
