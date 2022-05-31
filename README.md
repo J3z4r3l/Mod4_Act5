@@ -11,6 +11,8 @@ Este programa fue desarrollado con temática del perrito cheems que se viralizo 
 Como punto final, creamos el icono que solicitaba la actividad, este nos permite tener un rapido acceso al programas y automatiza los procesos de ejecucion. 
 Para lograr esto necesitamos 2 archivos;
 
+1.- cheems_game.sh: 
+
 
 
 
