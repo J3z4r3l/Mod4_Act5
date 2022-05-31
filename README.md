@@ -9,8 +9,12 @@ Este programa fue desarrollado con temática del perrito cheems que se viralizo 
 [Explicación del código y como se armo para que pudiera hacer eso]
 
 Como punto final, creamos el icono que solicitaba la actividad, este nos permite tener un rapido acceso al programas y automatiza los procesos de ejecucion. 
+Para lograr esto necesitamos 2 archivos;
 
 
+
+
+```desktop
 [Desktop Entry]
 Name=Chemsito
 Comment=Bonk
@@ -19,6 +23,7 @@ Exec=/home/pi/chems_game.sh
 Type=Application
 Encoding=UTF-8
 Terminal=false
+```
 
 
 ![image](https://user-images.githubusercontent.com/88802298/171071443-666dea7b-fa2e-4a62-981b-ee7920798365.png)
