@@ -47,5 +47,5 @@ Angel Ramirez:  Considero que la actividad fue bastante retadora y a la vez muy 
                                                                                    
 Jezarel Sanchez: La actividad nos permitio integrar varios conceptos ya vistos en python, con el plus de que hubo varios nuevos que nos permitían trabajar con las animaciones y sonidos que mejoraban la experiencia del usuario 
 
-Josafat: 
+Jonathan Josafat: Realizar esta actividad nos permitió comprender un pocomejor el funcionamiento de la libreria pygame, usando un ejemplo con el que podemos tener un programa basico y podemos ampliarlo a un trabajo mucho más realizado.
                                                                                            
