@@ -45,7 +45,7 @@ De esta manera logramos que el codigo funcionara exitosamente como se muestra en
 
 Angel Ramirez:  Considero que la actividad fue bastante retadora y a la vez muy enriquecedora, pues nos permitio poner en practica varios de los conocimientos adquiridos en en el modulo, y a pesar de las dificultades que se nos pudieron presentar, esta actividad me permitio comprender basicamente como funcionan algunas animaciones y los iconos, que son elementos muy reelevantes y bastante utiles ya que nos ahorran tiempo de buscar archivos y ejecutarlos manualmente.
                                                                                    
-Jezarel Sanchez: 
+Jezarel Sanchez: La actividad nos permitio integrar varios conceptos ya vistos en python, con el plus de que hubo varios nuevos que nos permitían trabajar con las animaciones y sonidos que mejoraban la experiencia del usuario 
 
 Josafat: 
                                                                                            
