@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Name=Chemsito
+Comment=Bonk
+Icon=/home/pi/Desktop/actividad5/icono.jpeg
+Exec=/home/pi/chems_game.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
