@@ -43,7 +43,7 @@ De esta manera logramos que el codigo funcionara exitosamente como se muestra en
 
 # Conclusiones
 
-Angel Ramirez
-Jezarel Sanchez
-Josafat 
+Angel Ramirez:
+Jezarel Sanchez: 
+Josafat: 
                                                                                            
